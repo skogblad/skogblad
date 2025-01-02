@@ -4,7 +4,7 @@ I’m Alicia, currently doing my first year as a front end developer student at 
  
 #### :sparkles: Feel free to connect with me here: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-aliciaskogblad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicia-skogblad/)](https://www.linkedin.com/in/alicia-skogblad/)
-[![Gmail Badge](https://img.shields.io/badge/-a.skogblad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.skogblad@gmail.com)](mailto:a.skogblad@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-alicia.skogblad@medieinstitutet.se-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alicia.skogblad@medieinstitutet.se)](mailto:alicia.skogblad@medieinstitutet.se)
 <!---
 skogblad/skogblad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
