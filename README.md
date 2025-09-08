@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I’m Alicia, currently doing my first year as a front end developer student at [Medieinstitutet](https://github.com/medieinstitutet). With a love for learning and development, I'm intrigued by problem solving and find the joy in the creation of idea to finished product.
+I’m Alicia, currently doing my second year as a front end developer student at [Medieinstitutet](https://github.com/medieinstitutet). With a love for learning and development, I'm intrigued by problem solving and find the joy in the creation of idea to finished product.
  
 #### :sparkles: Feel free to connect with me here: <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alicia-skogblad/)](https://www.linkedin.com/in/alicia-skogblad/)
